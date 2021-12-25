@@ -1,16 +1,15 @@
-package hello
+package main
 
 import (
-	"fmt"
 	"testing"
 )
 
-func Test_main(t *testing.T) {
+func TestHello(t *testing.T) {
 	want := "Hello, world"
 
-	fmt.Println(want)
+	got := Hello()
 
-	if got := Hello(); got != want {
+	if got != want {
 		t.Errorf("Hello() = %q, want %q", got, want)
 	}
 }
