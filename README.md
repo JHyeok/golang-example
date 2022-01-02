@@ -22,3 +22,9 @@
 - 명령 팔레트(ctrl + shift + p)에서 `Go: test`라고 입력하면 테스트 관련 명령어들이 많다.
 - [learn-go-with-tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
 - [Testing in Go: Naming Conventions](https://ieftimov.com/post/testing-in-go-naming-conventions/)
+
+
+## 참고
+https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1
+
+https://nomadcoders.co/go-for-beginners
