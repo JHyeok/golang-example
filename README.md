@@ -1,12 +1,12 @@
 # golang example
 
-## 설치 및 개발환경
+## 설치 및 개발 환경
 
 1. [Go 설치](https://go.dev/dl)
 
-2. VSCode에서 [Go extension](https://marketplace.visualstudio.com/items?itemName=golang.go) 설치
+2. VS Code에서 [Go extension](https://marketplace.visualstudio.com/items?itemName=golang.go) 설치
 
-3. VSCode setting
+3. VS Code setting
 ```json
 {
   "[go]": {
