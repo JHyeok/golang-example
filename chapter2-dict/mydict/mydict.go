@@ -2,8 +2,6 @@ package mydict
 
 import "errors"
 
-//
-
 // Dictionary type
 type Dictionary map[string]string
 
