@@ -29,6 +29,7 @@ import "github.com/gofiber/fiber/v2"
 go mod init <app_name>
 go mod tidy
 ```
+- [Fiber의 Prefork](https://github.com/gofiber/fiber/issues/180)
 
 
 ## 참고
