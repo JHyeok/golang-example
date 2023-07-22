@@ -30,7 +30,7 @@ go mod init <app_name>
 go mod tidy
 ```
 - [Fiber의 Prefork](https://github.com/gofiber/fiber/issues/180)
-
+- `go mod tidy` 명령어는 사용하지 않는 의존성을 정리한다. 이 명령어는 현재 프로젝트의 종속성을 분석하고 사용하지 않는 패키지를 제거한 뒤에 `go.mod`와 `go.sum` 파일을 업데이트합니다.
 
 ## 참고
 https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1
